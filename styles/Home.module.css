@@ -1,0 +1,17 @@
+.chartWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  overflow-x: auto;
+  padding: 20px 0;
+}
+
+.chartContent {
+  width: 90%;
+  max-width: 1400px;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
