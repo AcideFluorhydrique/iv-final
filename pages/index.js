@@ -69,7 +69,7 @@ export default function Home() {
     <div style={{ padding: '20px', fontFamily: 'Segoe UI, sans-serif' }}>
       <div style={{ textAlign: 'center', marginBottom: '30px' }}>
         <h1 style={{ fontSize: '3rem', marginBottom: '10px' }}>Steam Game Visualization</h1>
-        <p style={{ fontSize: '20px', color: '#666' }}>This project visualizes trends in major video game releases from 2001 to 2025, focusing on well-known titles from prominent companies. The top chart shows the amount of these major games released each year. The bottom treemap shows the category trends among major releases, and the bottom histogram illustrates the 2022 ratings distribution, showing how these high-profile games were scored across various rating ranges.</p>
+        <p style={{ fontSize: '20px', color: '#666' }}>This project visualizes trends in major video game releases from 2001 to 2025, focusing on well-known titles from prominent companies. \n The top chart shows the amount of these major games released each year. The bottom treemap shows the category trends among major releases, and the bottom histogram illustrates the ratings distribution, showing how these high-profile games were scored across various rating ranges.</p>
       </div>
 
       <div style={{ textAlign: 'center', marginBottom: '20px' }}>
